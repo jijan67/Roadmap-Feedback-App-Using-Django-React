@@ -67,9 +67,10 @@ The Roadmap Feedback App is a full stack web application that allows users to vi
 ### Backend Setup
 1. Navigate to the `backend/roadmap_project` directory.
 2. Create a virtual environment and activate it.
-3. Run `pip install -r requirements.txt` to install dependencies.
-4. Run `python manage.py migrate` to apply migrations.
-5. Run `python manage.py runserver` to start the backend server at [http://127.0.0.1:8000](http://127.0.0.1:8000).
+3. Run `pip install django djangorestframework django-cors-headers python-decouple` to install django, djangorestframework, django-cors-headers, python-decouple.
+4. Run `pip install -r requirements.txt` to install dependencies.
+5. Run `python manage.py migrate` to apply migrations.
+6. Run `python manage.py runserver` to start the backend server at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ---
 
