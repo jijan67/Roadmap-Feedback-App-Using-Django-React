@@ -1,6 +1,6 @@
 # Roadmap Feedback App
 
-**Author:** Jijanur Rahman
+**Author:** [Jijanur Rahman](https://jijanurrahman.netlify.app/)
 
 ---
 
@@ -56,7 +56,7 @@ The Roadmap Feedback App is a full stack web application that allows users to vi
 
 ### Prerequisites
 - Node.js and npm
-- Python 3.x
+- Python 3.11
 - Django and Django REST Framework
 
 ### Frontend Setup
