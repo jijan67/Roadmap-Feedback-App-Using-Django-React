@@ -74,6 +74,22 @@ The Roadmap Feedback App is a full stack web application that allows users to vi
 
 ---
 
+## 📽️ Project Demo Videos
+
+### ▶️ 1. How to Run the App on Your Local System
+[How to Run](https://drive.google.com/file/d/1s3-jmeShb11WxlyQnIDh0ks2X_FDOOVA/view?usp=sharing)
+
+> 🔧 This video will guide you step-by-step on how to set up and run the project on your local environment.
+
+---
+
+### ▶️ 2. Full Project Overview
+[Project Overview](https://drive.google.com/file/d/1AUoSw6va87V4LEyPWnFCG0f3RZyugRR_/view?usp=sharing)
+
+> 📋 A walkthrough of all major features, pages (Login, Register, Home, Profile), and user interactions in the Roadmap Feedback App.
+
+---
+
 ## Usage
 - Register a new account using your email and password.
 - Log in to view, upvote, and comment on roadmap features.
